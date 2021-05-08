@@ -47,6 +47,37 @@ input.onButtonPressed(Button.A, function () {
         . # # # #
         `)
     basic.pause(2000)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . #
+        . . . # #
+        . . # # #
+        `)
+    basic.pause(2000)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . #
+        . . . # #
+        `)
+    basic.pause(2000)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . #
+        `)
+    basic.pause(2000)
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
     basic.showString("¡GRACIAS!")
     basic.showIcon(IconNames.Heart)
 })
