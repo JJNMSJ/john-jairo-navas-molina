@@ -1,5 +1,6 @@
 {
     "name": "JOHN JAIRO NAVAS MOLINA",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
